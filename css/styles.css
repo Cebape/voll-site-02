@@ -1,0 +1,50 @@
+body {
+  font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+}
+h4 {
+  font-size: 30px;
+  margin: 50;
+  font-family: verdana;
+  color: blue;
+  background-color: powderblue;
+  text-align: center;
+}
+h3 {
+  font-size: 15px;
+  margin: 50;
+  font-family: verdana;
+  color: blue;
+  background-color: powderblue;
+  text-align: center;
+}
+p {
+  margin: 40px 0;
+}
+em {
+  font-family: monospace;
+}
+a {
+  color: #5298fc;
+  text-decoration: none;
+}
+
+.container {
+  position: relative;
+}
+
+#image {
+  position: absolute;
+}
+
+#texto {
+  position: absolute;
+  font-size: 32px;
+  left: 250px;
+  top: 135px;
+}
+
+label {
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+}
